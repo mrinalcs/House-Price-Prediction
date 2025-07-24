@@ -15,4 +15,4 @@ This repository contains a Jupyter Notebook for analyzing and predicting house p
 
  📄 [View Notebook on GitHub](https://github.com/mrinalcs/House-Price-Prediction/blob/main/notebook.ipynb)
  
-🔗 Try it live: [house-price-predictiom.streamlit.app](https://house-price-predictiom.streamlit.app/)
+🔗 Try it live: [https://house-price-prediction-mrinalcs.streamlit.app](https://house-price-prediction-mrinalcs.streamlit.app/)
