@@ -12,4 +12,7 @@ This repository contains a Jupyter Notebook for analyzing and predicting house p
 - Model training (Multiple Linear Regression)
 - VIF (Variance Inflation Factor) analysis for multicollinearity 
 - Streamlit price prediction app
+
+ 📄 [View Notebook on GitHub](https://github.com/mrinalcs/House-Price-Prediction/blob/main/notebook.ipynb)
  
+🔗 Try it live: [house-price-predictiom.streamlit.app](https://house-price-predictiom.streamlit.app/)
